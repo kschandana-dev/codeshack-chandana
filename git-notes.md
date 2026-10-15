@@ -99,3 +99,38 @@ Displays the remote repositories configured for your project.
 
 Example:
 git remote -v
+
+## 16. git switch -c
+
+Creates a new branch and switches to it.
+
+Example:
+`git switch -c feature/new-feature`
+
+## 17. git checkout
+
+Can switch branches or restore files, depending on the options used.
+
+Example:
+`git checkout main`
+
+## 18. git rm
+
+Removes a tracked file from the working tree and stages its removal.
+
+Example:
+`git rm old-file.txt`
+
+## 19. git show
+
+Displays information about a commit.
+
+Example:
+`git show`
+
+## 20. git stash
+
+Temporarily saves changes so you can work on something else.
+
+Example:
+`git stash`
