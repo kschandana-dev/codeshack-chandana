@@ -69,3 +69,33 @@ Displays the commit history.
 
 Example:
 `git log --oneline`
+
+## 11. git diff
+Shows changes that have not been staged.
+
+Example:
+git diff
+
+## 12. git restore
+Discards unstaged changes to a tracked file.
+
+Example:
+git restore filename.txt
+
+## 13. git fetch
+Downloads information about remote changes without integrating them into your current branch.
+
+Example:
+git fetch origin
+
+## 14. git merge
+Integrates changes from another branch into your current branch.
+
+Example:
+git merge main
+
+## 15. git remote -v
+Displays the remote repositories configured for your project.
+
+Example:
+git remote -v
